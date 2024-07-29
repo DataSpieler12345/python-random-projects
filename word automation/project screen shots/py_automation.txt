@@ -1,0 +1,19 @@
+Beneficios de la automatización:
+
+ES
+- *Ahorro de tiempo:* Libera horas de trabajo al automatizar tareas repetitivas.
+- *Mayor productividad:* Enfócate en tareas más importantes y deja que Python haga el trabajo pesado.
+- *Mejora tus habilidades:* Aumenta tus conocimientos en Python y desarrolla nuevas habilidades aplicables en múltiples áreas.
+- *Resultados consistentes:* Obtén resultados uniformes y precisos en tus tareas automatizadas.
+
+DE
+- Zeitersparnis:* Freisetzung von Arbeitsstunden durch die Automatisierung sich wiederholender Aufgaben.
+- Erhöhte Produktivität: * Konzentrieren Sie sich auf wichtigere Aufgaben und überlassen Sie Python die schwere Arbeit.
+- Verbessern Sie Ihre Fähigkeiten:* Erweitern Sie Ihre Python-Kenntnisse und entwickeln Sie neue Fähigkeiten, die in verschiedenen Bereichen anwendbar sind.
+- Konsistente Ergebnisse:* Erhalten Sie konsistente und genaue Ergebnisse bei Ihren automatisierten Aufgaben.
+
+EN
+- Time saving:* Free up hours of work by automating repetitive tasks.
+- Increased productivity:* Focus on more important tasks and let Python do the heavy lifting.
+- Improve your skills:* Increase your Python knowledge and develop new skills applicable in multiple areas.
+- Consistent results:* Get consistent and accurate results in your automated tasks.
